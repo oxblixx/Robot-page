@@ -1,8 +1,13 @@
-h1{
+.green{
     color: red;
-
-}
-
-h1 {
+    /* font-family: 'Pacifico', cursive; */
+    font-family: 'VT323', monospace;
     font-weight: 200;
+
 }
+
+ body{
+    background: linear-gradient( 64.5deg,  rgba(245,116,185,1) 14.7%, rgba(89,97,223,1) 88.7% );
+}
+
+/* s */

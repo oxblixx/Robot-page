@@ -3,9 +3,9 @@ import './Searchbox.css'
 
 const Searchbox = ({ searchField, searchChange }) => {
   return (
-    <div className="p4">
+    <div className="p3">
       <input
-        className="outline p5 b--light-green bg-light-green"
+        className="outline p3 b--light-green bg-light-green"
         type="search"
         placeholder="Search For Robots"
         onChange={searchChange}
